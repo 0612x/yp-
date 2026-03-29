@@ -1,0 +1,5 @@
+{
+  "name": "打工人生存模拟器",
+  "description": "A text-based survival simulator game where you choose a tech role (Programmer, Game Dev, PM, Designer) and navigate workplace challenges.",
+  "requestFramePermissions": []
+}
